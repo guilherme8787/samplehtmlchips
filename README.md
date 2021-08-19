@@ -7,6 +7,7 @@ Esse repositório contem um simples Chips de input implementado com HTML/CSS/Jav
 **Instalação**
 
 > git clone https://github.com/guilherme8787/samplehtmlchips.git
+
 > cd samplehtmlchips
 
 execute o index.html e já pode brincar
